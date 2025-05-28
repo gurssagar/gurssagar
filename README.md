@@ -37,8 +37,8 @@ Welcome to my GitHub! I'm a passionate Computer Science Engineering student at G
 
 ## 📊 GitHub Stats
 
-![Gursagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gursagarsingh&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gursagarsingh&layout=compact&theme=tokyonight)
+![Gursagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gurssagar&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurssagar&layout=compact&theme=tokyonight)
 
 ---
 
