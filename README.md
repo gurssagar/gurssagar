@@ -21,7 +21,6 @@ Welcome to my GitHub! I'm a passionate Computer Science Engineering student at G
 
 - 🧠 **TaskHunt** — A productivity & habit tracking platform
 - 💰 **GitFund** — A Web3 bounty-based contributor platform (Deployed on BNB testnet)
-- 🎯 **Hackathon Projects** — Focused on supply chain optimization & visibility at Walmart scale
 - 👨‍🏫 Hosting sessions on Git, GitHub, and open-source collaboration
 
 ---
