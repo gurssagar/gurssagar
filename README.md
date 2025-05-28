@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi there, I'm Gursagar Singh!
 
-<!--
-**gurssagar/gurssagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Developer | Web3 Enthusiast | Tech Community Builder
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a passionate Computer Science Engineering student at GTBIT, currently in my 3rd year, actively building and contributing to projects in Full Stack Development and Web3. I enjoy turning ideas into reality through code and love collaborating with fellow developers and communities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+- **Languages:** JavaScript, TypeScript, Solidity, Python
+- **Frontend:** React, Next.js, Angular, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, Firebase
+- **Web3:** Etherlink, Tezos, Solidity, Smart Contracts
+- **Tools:** Git, GitHub, Postman, Vercel, Hardhat, Remix
+
+---
+
+## 🔥 Currently Working On
+
+- 🧠 **TaskHunt** — A productivity & habit tracking platform
+- 💰 **GitFund** — A Web3 bounty-based contributor platform (Deployed on BNB testnet)
+- 🎯 **Hackathon Projects** — Focused on supply chain optimization & visibility at Walmart scale
+- 👨‍🏫 Hosting sessions on Git, GitHub, and open-source collaboration
+
+---
+
+---
+
+## 📫 Let's Connect!
+
+- 🧠 [LinkedIn](https://www.linkedin.com/in/gursagar-singh-629297220/)   
+- 📬 Reach me: **gursagar1107@proton.me**
+
+---
+
+## 📊 GitHub Stats
+
+![Gursagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gursagarsingh&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gursagarsingh&layout=compact&theme=tokyonight)
+
+---
+
+_“Building in public, learning every day, and contributing to the future of tech.”_
+
